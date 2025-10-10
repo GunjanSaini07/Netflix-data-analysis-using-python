@@ -65,12 +65,6 @@ The goal of this project is to explore Netflix movie data and visualize patterns
 
 ---
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/Netflix-Data-Analysis.git
----
-
    ## 👩‍💻 Author  
 - **Gunjan Saini**  
   [LinkedIn](https://www.linkedin.com/in/gunjan-saini-7a255b28b) | [GitHub](https://github.com/GunjanSaini07)
